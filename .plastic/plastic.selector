@@ -1,0 +1,4 @@
+repository "NT2024@sino_kcil@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

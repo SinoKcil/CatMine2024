@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{72698F74-8BA4-A8DA-B512-874A38E36757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDialogue", "EasyDialogue.csproj", "{48646192-584C-F288-14BF-1E429212DF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNode", "XNode.csproj", "{F6CE105A-CB06-44DE-23C4-FBDC21C27CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializableDict", "SerializableDict.csproj", "{B70FFFA3-ADE2-56A9-3CCA-3EE8E5D17BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNodeEditor", "XNodeEditor.csproj", "{8EF3F3D6-E8F6-4E52-8165-96BB7FC07CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializableDictEditor", "SerializableDictEditor.csproj", "{31D4388D-0CFF-4F06-47E0-EC5443844ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDialogueEditor", "EasyDialogueEditor.csproj", "{60F15C5B-1FDB-29E3-1DFE-67A7B779CE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72698F74-8BA4-A8DA-B512-874A38E36757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72698F74-8BA4-A8DA-B512-874A38E36757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72698F74-8BA4-A8DA-B512-874A38E36757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72698F74-8BA4-A8DA-B512-874A38E36757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48646192-584C-F288-14BF-1E429212DF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48646192-584C-F288-14BF-1E429212DF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48646192-584C-F288-14BF-1E429212DF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48646192-584C-F288-14BF-1E429212DF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CE105A-CB06-44DE-23C4-FBDC21C27CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CE105A-CB06-44DE-23C4-FBDC21C27CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CE105A-CB06-44DE-23C4-FBDC21C27CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CE105A-CB06-44DE-23C4-FBDC21C27CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70FFFA3-ADE2-56A9-3CCA-3EE8E5D17BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70FFFA3-ADE2-56A9-3CCA-3EE8E5D17BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70FFFA3-ADE2-56A9-3CCA-3EE8E5D17BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70FFFA3-ADE2-56A9-3CCA-3EE8E5D17BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF3F3D6-E8F6-4E52-8165-96BB7FC07CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF3F3D6-E8F6-4E52-8165-96BB7FC07CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF3F3D6-E8F6-4E52-8165-96BB7FC07CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF3F3D6-E8F6-4E52-8165-96BB7FC07CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D4388D-0CFF-4F06-47E0-EC5443844ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D4388D-0CFF-4F06-47E0-EC5443844ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D4388D-0CFF-4F06-47E0-EC5443844ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D4388D-0CFF-4F06-47E0-EC5443844ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F15C5B-1FDB-29E3-1DFE-67A7B779CE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F15C5B-1FDB-29E3-1DFE-67A7B779CE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F15C5B-1FDB-29E3-1DFE-67A7B779CE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F15C5B-1FDB-29E3-1DFE-67A7B779CE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
